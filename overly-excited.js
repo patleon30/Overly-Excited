@@ -8,7 +8,7 @@ function addExcitement (theWordArray) {
 var line = ""; 
 
 for (var i = 0; i < sentence.length; i++) {
-line = line + sentence[i];
+line = line + sentence[i] + " ";
  console.log(line);	
 
 
